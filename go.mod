@@ -1,4 +1,4 @@
-module github.com/theHuycoder/medux-proto/go
+module github.com/theHuycoder/medux-proto-go
 
 go 1.21.6
 
